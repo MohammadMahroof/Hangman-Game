@@ -25,5 +25,6 @@ This project showcases my skills in **Python programming, loops, conditionals, a
 ---
 
 ## 🚀 How to Play
+https://github.com/MohammadMahroof/Hangman-Game/blob/main/hangman.py
 
 
