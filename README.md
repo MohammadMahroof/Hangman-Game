@@ -25,7 +25,5 @@ This project showcases my skills in **Python programming, loops, conditionals, a
 ---
 
 ## 🚀 How to Play
-1. **Clone this repository**:
-   ```bash
-   git clone https://github.com/MohammadMahroof/Hangman-Game.git
+
 
