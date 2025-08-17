@@ -26,32 +26,35 @@ This project highlights clean code structure, effective use of **loops**, **cond
    ```bash
    git clone https://github.com/MohammadMahroof/Hangman-Game.gitNavigate into the folder:
 2. **Navigate into the folder:**
+   ```
    cd Hangman-Game
 3. **Run the game:**
+   ```
    python hangman.py
-
 ---
 
 
 ## 📂 Project Structure
 
+```
 Hangman-Game/
 │
-├── hangman.py # Main game logic
-├── hangman_art.py # ASCII art and logo
-├── hangman_words.py # Word list for the game
-└── README.md # Project documentation
-
+├── hangman.py         # Main game logic
+├── hangman_art.py     # ASCII art and logo
+├── hangman_words.py   # Word list for the game
+└── README.md          # Project documentation
+```
 ---
 
 ## 🎮 Game Preview
 
+```
 Word to guess: _ _ _ _ _
 Guess a letter: a
 Too bad! 'a' is not in the word.
 Lives left: 5
-
----
+```
+--- 
 
 ## 💡 Skills Demonstrated
 - Python fundamentals: variables, loops, conditionals
