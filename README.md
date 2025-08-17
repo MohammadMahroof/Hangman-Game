@@ -39,7 +39,6 @@ Hangman-Game/
 ├── hangman_art.py # ASCII art and logo
 ├── hangman_words.py # Word list for the game
 └── README.md # Project documentation
-
 ---
 
 ## 🎮 Game Preview
