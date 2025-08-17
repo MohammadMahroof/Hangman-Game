@@ -1,10 +1,7 @@
-# Hangman-Game
-A fun command-line Hangman game built with Python, featuring ASCII art stages, random word selection, and input validation for repeated guesses. Showcases Python basics, loops, conditionals, and modular code structure.
-
 # 🎯 Hangman Game in Python
 
-A simple yet fun **command-line Hangman game** built with Python.  
-This project showcases my skills in **Python programming, loops, conditionals, and list manipulation** while keeping the gameplay engaging.
+A fun and interactive **command-line Hangman game** written in Python. It combines engaging **ASCII-art visuals** with robust game logic, including random word selection and intelligent handling of repeated guesses.  
+This project highlights clean code structure, effective use of **loops**, **conditionals**, and modular design—perfect for showcasing your Python fundamentals and problem-solving mindset.
 
 ---
 
@@ -21,10 +18,3 @@ This project showcases my skills in **Python programming, loops, conditionals, a
 - **Python 3.x**
 - **Random Module** for word selection
 - **ASCII Art** for game stages
-
----
-
-## 🚀 How to Play
-https://github.com/MohammadMahroof/Hangman-Game/blob/main/hangman.py
-
-
