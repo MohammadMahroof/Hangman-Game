@@ -18,3 +18,10 @@ This project highlights clean code structure, effective use of **loops**, **cond
 - **Python 3.x**
 - **Random Module** for word selection
 - **ASCII Art** for game stages
+
+---
+
+## 🚀 How to Play
+1. **Clone this repository**:
+   ```bash
+   git clone https://github.com/MohammadMahroof/Hangman-Game.git
