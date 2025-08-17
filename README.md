@@ -1,4 +1,4 @@
-# 🎯 Hangman Game in Python
+ # 🎯 Hangman Game in Python
 
 A fun and interactive **command-line Hangman game** written in Python. It combines engaging **ASCII-art visuals** with robust game logic, including random word selection and intelligent handling of repeated guesses.  
 This project highlights clean code structure, effective use of **loops**, **conditionals**, and modular design—perfect for showcasing your Python fundamentals and problem-solving mindset.
@@ -35,10 +35,10 @@ This project highlights clean code structure, effective use of **loops**, **cond
 ## 📂 Project Structure
 Hangman-Game/
 │
-├── hangman.py          # Main game logic
-├── hangman_art.py      # ASCII art and logo
-├── hangman_words.py    # Word list for the game
-└── README.md           # Project documentation
+├── hangman.py # Main game logic
+├── hangman_art.py # ASCII art and logo
+├── hangman_words.py # Word list for the game
+└── README.md # Project documentation
 
 ---
 
@@ -51,16 +51,16 @@ Lives left: 5
 ---
 
 ## 💡 Skills Demonstrated
--Python fundamentals: variables, loops, conditionals
--List & string manipulation
--Importing and working with custom modules
--Building structured and modular game logic
--Writing clean, beginner-friendly code
+- Python fundamentals: variables, loops, conditionals
+- List & string manipulation
+- Importing and working with custom modules
+- Building structured and modular game logic
+- Writing clean, beginner-friendly code
 
 ---
 
 ## 📜 License
--This project is open-source. Feel free to use it for learning purposes.
+- This project is open-source. Feel free to use it for learning purposes.
 
 ---
 
